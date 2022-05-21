@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hbahuguna
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Blockchain development and Machine Learning.
-- 💞️ I’m looking to collaborate on Web 3 projects.
+- 🌱 I’m currently learning Software development and Machine Learning.
+- 💞️ I’m looking to collaborate on Web and Automation projects.
 - 📫 Send me a message on Linked In https://www.linkedin.com/in/himanshu-bahuguna-79a988184/
 
 <!---
